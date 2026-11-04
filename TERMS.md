@@ -1,6 +1,6 @@
 # DramaOps terms of use
 
-Policy version: 2026-11-04-v1. These terms cover the DramaOps product pages and connected-platform features of DramaOps Commander and Studio. Software licenses and third-party notices supplied with a release continue to govern the software and its included components.
+Policy version: 2026-11-04-v2. These terms cover the DramaOps product pages and connected-platform features of DramaOps Commander and Studio. Software licenses and third-party notices supplied with a release continue to govern the software and its included components.
 
 Connect only accounts you are authorized to use. You are responsible for the content, rights, destinations, permissions and visibility settings you choose. Review metadata, thumbnails, chat messages, enabled actions and outputs before submitting or enabling them. Signing in or loading a saved setup is separate from applying an update or starting a broadcast.
 
@@ -12,6 +12,6 @@ The previews and connected features are offered as available. Providers can chan
 
 Keep backups of important production plans and media. Local logout, Google revocation, removal of app-managed data and deletion of YouTube content are different operations. Read the privacy policy and removal result for what is covered and what can remain. Uninstalling may preserve user data.
 
-DramaOps is not endorsed by or affiliated with Google, YouTube, Twitch, OBS or Cloudflare. Those names identify the services or software involved.
+DramaOps is not endorsed by or affiliated with Google, YouTube, Twitch, Kick, Meta, 7TV, BetterTTV, FrankerFaceZ, OBS or Cloudflare. Those names identify the services or software involved.
 
 Support and privacy contact: [dramaopszero@gmail.com](mailto:dramaopszero@gmail.com). Do not send passwords, tokens or stream keys.
